@@ -1,2 +1,2 @@
-# mybio-github.io
+# mybio.github.io
 personal bio page
